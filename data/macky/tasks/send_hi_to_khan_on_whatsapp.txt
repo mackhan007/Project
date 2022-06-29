@@ -1,0 +1,44 @@
+keyboard - time: 1656444639.355152 key: Key.cmd - pressed
+keyboard - time: 1656444639.6471791 key: Key.space - pressed
+keyboard - time: 1656444639.768922 key: Key.space - released
+keyboard - time: 1656444639.808157 key: Key.cmd - released
+keyboard - time: 1656444640.805113 key: 'w' - pressed
+keyboard - time: 1656444640.9828138 key: 'w' - released
+keyboard - time: 1656444641.257647 key: 'h' - pressed
+keyboard - time: 1656444641.377156 key: 'h' - released
+keyboard - time: 1656444641.66659 key: 'a' - pressed
+keyboard - time: 1656444641.827383 key: 'a' - released
+keyboard - time: 1656444642.751243 key: 't' - pressed
+keyboard - time: 1656444642.8748212 key: 't' - released
+keyboard - time: 1656444643.554131 key: 's' - pressed
+keyboard - time: 1656444643.684715 key: 's' - released
+keyboard - time: 1656444643.977879 key: 'a' - pressed
+keyboard - time: 1656444644.0818172 key: 'a' - released
+keyboard - time: 1656444645.730914 key: 'p' - pressed
+keyboard - time: 1656444645.851331 key: 'p' - released
+keyboard - time: 1656444646.226868 key: 'p' - pressed
+keyboard - time: 1656444646.321774 key: 'p' - released
+keyboard - time: 1656444647.106142 key: Key.enter - pressed
+keyboard - time: 1656444647.194826 key: Key.enter - released
+mouse - time: 1656444656.487322 x: 404.96484375 y: 179.19140625 button: Button.left - pressed
+mouse - time: 1656444656.487638 x: 404.96484375 y: 179.19140625 button: Button.left - released
+keyboard - time: 1656444657.601393 key: 'k' - pressed
+keyboard - time: 1656444657.701271 key: 'k' - released
+keyboard - time: 1656444657.968968 key: 'h' - pressed
+keyboard - time: 1656444658.0690749 key: 'h' - released
+keyboard - time: 1656444658.417664 key: 'a' - pressed
+keyboard - time: 1656444658.533969 key: 'a' - released
+keyboard - time: 1656444658.8743172 key: 'n' - pressed
+keyboard - time: 1656444659.01047 key: 'n' - released
+mouse - time: 1656444661.570715 x: 401.68359375 y: 310.08984375 button: Button.left - pressed
+mouse - time: 1656444661.5710459 x: 401.68359375 y: 310.08984375 button: Button.left - released
+mouse - time: 1656444665.094634 x: 787.234375 y: 779.796875 button: Button.left - pressed
+mouse - time: 1656444665.094987 x: 787.234375 y: 779.796875 button: Button.left - released
+keyboard - time: 1656444666.812791 key: 'h' - pressed
+keyboard - time: 1656444666.9243572 key: 'h' - released
+keyboard - time: 1656444667.331773 key: 'i' - pressed
+keyboard - time: 1656444667.452095 key: 'i' - released
+keyboard - time: 1656444669.534796 key: Key.enter - pressed
+keyboard - time: 1656444669.6292 key: Key.enter - released
+keyboard - time: 1656444672.039695 key: Key.esc - pressed
+keyboard - time: 1656444672.199915 key: Key.esc - released

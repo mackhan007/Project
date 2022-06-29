@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "patterns": [
+                "How are you",
+                "whats going on",
+                "how is life"
+            ],
+            "responses": [
+                "I am good!",
+                "Nothing much!! What about you",
+                "Going pretty well"
+            ],
+            "tag": "about_your_self"
+        },
+        {
+            "patterns": [
+                "just getting bored"
+            ],
+            "responses": [
+                "how can i help you today",
+                "what's wrong with the day"
+            ],
+            "tag": "just_getting_bored"
+        },
+        {
+            "patterns": [
+                "tell me about yourself",
+                "what are you",
+                "can you explain about yourself"
+            ],
+            "responses": [
+                "hi i am samantha a voice assistant",
+                "sure i am samantha voice assistant power bi ai"
+            ],
+            "tag": "tell_me_about_yourself"
+        }
+    ]
+}

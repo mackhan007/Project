@@ -1,0 +1,164 @@
+{
+    "step 1": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.2524230480194092,
+        "key": "Key.cmd"
+    },
+    "step 2": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.10416603088378906,
+        "key": "Key.space"
+    },
+    "step 3": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.012143135070800781,
+        "key": "Key.space"
+    },
+    "step 4": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.6778497695922852,
+        "key": "Key.cmd"
+    },
+    "step 5": {
+        "inputType": "keyboard",
+        "function": "type",
+        "key": "safari",
+        "time": 2
+    },
+    "step 6": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.12639808654785156,
+        "key": "Key.enter"
+    },
+    "step 7": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.676698923110962,
+        "key": "Key.enter"
+    },
+    "step 8": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.3320491313934326,
+        "key": "Key.cmd"
+    },
+    "step 9": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.08302593231201172,
+        "key": "t"
+    },
+    "step 10": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.0752251148223877,
+        "key": "t"
+    },
+    "step 11": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 2.236494779586792,
+        "key": "Key.cmd"
+    },
+    "step 12": {
+        "inputType": "keyboard",
+        "function": "type",
+        "key": "youtube.com",
+        "time": 2
+    },
+    "step 13": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.10998129844665527,
+        "key": "Key.enter"
+    },
+    "step 14": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 4.289378881454468,
+        "key": "Key.enter"
+    },
+    "step 15": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.022882938385009766,
+        "x": 614.66015625,
+        "y": 132.41796875,
+        "button": "Button.left"
+    },
+    "step 16": {
+        "inputType": "mouse",
+        "function": "released",
+        "time": 1.2633841037750244,
+        "x": 614.66015625,
+        "y": 132.41796875,
+        "button": "Button.left"
+    },
+    "step 17": {
+        "inputType": "keyboard",
+        "function": "type",
+        "key": "song",
+        "time": 2
+    },
+    "step 18": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.10845398902893066,
+        "key": "Key.enter"
+    },
+    "step 19": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 4.362957954406738,
+        "key": "Key.enter"
+    },
+    "step 20": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.00017499923706054688,
+        "x": 532.98046875,
+        "y": 568.49609375,
+        "button": "Button.left"
+    },
+    "step 21": {
+        "inputType": "mouse",
+        "function": "released",
+        "time": 1.2994210720062256,
+        "x": 532.98046875,
+        "y": 568.49609375,
+        "button": "Button.left"
+    },
+    "step 22": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.022394895553588867,
+        "x": 519.00390625,
+        "y": 431.44921875,
+        "button": "Button.left"
+    },
+    "step 23": {
+        "inputType": "mouse",
+        "function": "released",
+        "time": 4.263484954833984,
+        "x": 519.00390625,
+        "y": 431.44921875,
+        "button": "Button.left"
+    },
+    "step 24": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.1020662784576416,
+        "key": "Key.esc"
+    },
+    "step 25": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0,
+        "key": "Key.esc"
+    }
+}

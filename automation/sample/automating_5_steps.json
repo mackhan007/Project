@@ -1,0 +1,998 @@
+{
+    "step 1": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.9458229541778564,
+        "key": "Key.cmd"
+    },
+    "step 2": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.07812786102294922,
+        "key": "Key.space"
+    },
+    "step 3": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.0754401683807373,
+        "key": "Key.space"
+    },
+    "step 4": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.4035539627075195,
+        "key": "Key.cmd"
+    },
+    "step 5": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.13229703903198242,
+        "key": "Key.enter"
+    },
+    "step 6": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.068835973739624,
+        "key": "Key.enter"
+    },
+    "step 7": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.2016458511352539,
+        "key": "Key.cmd"
+    },
+    "step 8": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.07197213172912598,
+        "key": "t"
+    },
+    "step 9": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.008107185363769531,
+        "key": "Key.cmd"
+    },
+    "step 10": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.5321285724639893,
+        "key": "t"
+    },
+    "step 11": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.10011911392211914,
+        "key": "t"
+    },
+    "step 12": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.03281521797180176,
+        "key": "t"
+    },
+    "step 13": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.14826488494873047,
+        "key": "e"
+    },
+    "step 14": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.10989999771118164,
+        "key": "e"
+    },
+    "step 15": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.1357271671295166,
+        "key": "s"
+    },
+    "step 16": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.012611865997314453,
+        "key": "s"
+    },
+    "step 17": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.0963449478149414,
+        "key": "t"
+    },
+    "step 18": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.20268917083740234,
+        "key": "t"
+    },
+    "step 19": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.11094093322753906,
+        "key": "i"
+    },
+    "step 20": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.0846860408782959,
+        "key": "i"
+    },
+    "step 21": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.10027790069580078,
+        "key": "n"
+    },
+    "step 22": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.04857778549194336,
+        "key": "n"
+    },
+    "step 23": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.13553214073181152,
+        "key": "g"
+    },
+    "step 24": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.038984060287475586,
+        "key": "g"
+    },
+    "step 25": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.08833193778991699,
+        "key": "Key.space"
+    },
+    "step 26": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.21018004417419434,
+        "key": "Key.space"
+    },
+    "step 27": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.11548686027526855,
+        "key": "Key.enter"
+    },
+    "step 28": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 4.242844343185425,
+        "key": "Key.enter"
+    },
+    "step 29": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.6838510036468506,
+        "x": 212.1875,
+        "y": 294.43359375,
+        "button": "Button.left"
+    },
+    "step 30": {
+        "inputType": "mouse",
+        "function": "released",
+        "time": 0.2263197898864746,
+        "x": 325.32421875,
+        "y": 300.90625,
+        "button": "Button.left"
+    },
+    "step 31": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.10812497138977051,
+        "key": "Key.cmd"
+    },
+    "step 32": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.13541817665100098,
+        "key": "c"
+    },
+    "step 33": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.020624876022338867,
+        "key": "c"
+    },
+    "step 34": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.6785671710968018,
+        "key": "Key.cmd"
+    },
+    "step 35": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.014105796813964844,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 36": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017344951629638672,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 37": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01725602149963379,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 38": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015542984008789062,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 39": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016436100006103516,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 40": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016873836517333984,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 41": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016044139862060547,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 42": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016925811767578125,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 43": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017263174057006836,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 44": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016546964645385742,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 45": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01599287986755371,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 46": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.018040180206298828,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 47": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01874399185180664,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 48": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.014690160751342773,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 49": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.0356287956237793,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 50": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.014940023422241211,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 51": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015343904495239258,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 52": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.2168281078338623,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 53": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.0005030632019042969,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 54": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016363143920898438,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 55": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01812577247619629,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 56": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01801013946533203,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 57": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.014611959457397461,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 58": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015503883361816406,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 59": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016639232635498047,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 60": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016624927520751953,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 61": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.018822908401489258,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 62": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01575493812561035,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 63": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017297029495239258,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 64": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016290903091430664,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 65": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.06460309028625488,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 66": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016757965087890625,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 67": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017388105392456055,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 68": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.8336410522460938,
+        "x": 318.1796875,
+        "y": 644.28515625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 69": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.0014808177947998047,
+        "x": 321.40234375,
+        "y": 671.046875,
+        "button": "Button.left"
+    },
+    "step 70": {
+        "inputType": "mouse",
+        "function": "released",
+        "time": 2.564418077468872,
+        "x": 321.40234375,
+        "y": 671.046875,
+        "button": "Button.left"
+    },
+    "step 71": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.0004611015319824219,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 72": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.0164029598236084,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 73": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.018548965454101562,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 74": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01879096031188965,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 75": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.012115955352783203,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 76": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017145156860351562,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 77": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017595767974853516,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 78": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015664100646972656,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 79": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016762971878051758,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 80": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017192840576171875,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 81": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.00023508071899414062,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 82": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.032813072204589844,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 83": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017503976821899414,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 84": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016488075256347656,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 85": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017369985580444336,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 86": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015597105026245117,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 87": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016875028610229492,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 88": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01649188995361328,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 89": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017071962356567383,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 90": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015427112579345703,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 91": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.0002727508544921875,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -2.0
+    },
+    "step 92": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.06639432907104492,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 93": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016447782516479492,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 94": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01709127426147461,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 95": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017042875289916992,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 96": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01561880111694336,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 97": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01844310760498047,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 98": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015537023544311523,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 99": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01792597770690918,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 100": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015748977661132812,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 101": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01749110221862793,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 102": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.03416085243225098,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 103": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.03314614295959473,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 104": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.014331817626953125,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 105": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01904916763305664,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 106": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.24803495407104492,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 107": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.016335010528564453,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 108": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.019321918487548828,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 109": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.01419210433959961,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": -1.0
+    },
+    "step 110": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.0164949893951416,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 111": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.018619060516357422,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 112": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.015347957611083984,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 113": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.017480850219726562,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 114": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.033968210220336914,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 115": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 0.014487028121948242,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 116": {
+        "inputType": "mouse",
+        "function": "scrolled",
+        "time": 1.5169248580932617,
+        "x": 397.19921875,
+        "y": 573.390625,
+        "dx": 0.0,
+        "dy": 0.0
+    },
+    "step 117": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.7173058986663818,
+        "x": 201.59765625,
+        "y": 369.296875,
+        "button": "Button.left"
+    },
+    "step 118": {
+        "inputType": "mouse",
+        "function": "released",
+        "time": 0.43103814125061035,
+        "x": 590.90625,
+        "y": 407.56640625,
+        "button": "Button.left"
+    },
+    "step 119": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.187086820602417,
+        "key": "Key.cmd"
+    },
+    "step 120": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.13098597526550293,
+        "key": "c"
+    },
+    "step 121": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.021090030670166016,
+        "key": "c"
+    },
+    "step 122": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.524461269378662,
+        "key": "Key.cmd"
+    },
+    "step 123": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.14874577522277832,
+        "key": "Key.esc"
+    },
+    "step 124": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0,
+        "key": "Key.esc"
+    }
+}

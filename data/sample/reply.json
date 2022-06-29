@@ -1,0 +1,9 @@
+{
+	"data": [
+		{
+			"tag": "about_your_self",
+			"patterns": ["How are you", "whats going on", "how is life"],
+			"responses": ["I am good!", "Nothing much!! What about you", "Going pretty well"]
+		}
+	]
+}

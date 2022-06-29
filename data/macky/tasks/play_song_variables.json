@@ -1,0 +1,4 @@
+{
+    "play music": "play $variable",
+    "play song": "play $variable"
+}

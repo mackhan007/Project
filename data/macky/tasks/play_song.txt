@@ -1,0 +1,64 @@
+keyboard - time: 1656273073.015965 key: Key.cmd - pressed
+keyboard - time: 1656273073.268388 key: Key.space - pressed
+keyboard - time: 1656273073.372554 key: Key.space - released
+keyboard - time: 1656273073.3846972 key: Key.cmd - released
+keyboard - time: 1656273074.062547 key: 's' - pressed
+keyboard - time: 1656273074.2435951 key: 's' - released
+keyboard - time: 1656273074.514965 key: 'a' - pressed
+keyboard - time: 1656273074.6328351 key: 'a' - released
+keyboard - time: 1656273075.4620101 key: 'f' - pressed
+keyboard - time: 1656273075.6026628 key: 'f' - released
+keyboard - time: 1656273075.8406022 key: 'a' - pressed
+keyboard - time: 1656273075.97745 key: 'a' - released
+keyboard - time: 1656273076.3978398 key: 'r' - pressed
+keyboard - time: 1656273076.544918 key: 'r' - released
+keyboard - time: 1656273076.794227 key: 'i' - pressed
+keyboard - time: 1656273076.9425988 key: 'i' - released
+keyboard - time: 1656273077.477346 key: Key.enter - pressed
+keyboard - time: 1656273077.603744 key: Key.enter - released
+keyboard - time: 1656273079.280443 key: Key.cmd - pressed
+keyboard - time: 1656273079.612492 key: 't' - pressed
+keyboard - time: 1656273079.695518 key: 't' - released
+keyboard - time: 1656273079.7707431 key: Key.cmd - released
+keyboard - time: 1656273082.007238 key: 'y' - pressed
+keyboard - time: 1656273082.083026 key: 'y' - released
+keyboard - time: 1656273082.639155 key: 'o' - pressed
+keyboard - time: 1656273082.771515 key: 'o' - released
+keyboard - time: 1656273083.193568 key: 'u' - pressed
+keyboard - time: 1656273083.288673 key: 'u' - released
+keyboard - time: 1656273083.73733 key: 't' - pressed
+keyboard - time: 1656273083.8891032 key: 't' - released
+keyboard - time: 1656273084.29008 key: 'u' - pressed
+keyboard - time: 1656273084.397435 key: 'u' - released
+keyboard - time: 1656273084.82136 key: 'b' - pressed
+keyboard - time: 1656273084.909869 key: 'b' - released
+keyboard - time: 1656273085.367281 key: 'e' - pressed
+keyboard - time: 1656273085.524195 key: 'e' - released
+keyboard - time: 1656273086.277189 key: '.' - pressed
+keyboard - time: 1656273086.37695 key: '.' - released
+keyboard - time: 1656273086.9257631 key: 'c' - pressed
+keyboard - time: 1656273087.0598059 key: 'c' - released
+keyboard - time: 1656273087.870236 key: 'o' - pressed
+keyboard - time: 1656273088.0215921 key: 'o' - released
+keyboard - time: 1656273088.3097868 key: 'm' - pressed
+keyboard - time: 1656273088.440773 key: 'm' - released
+keyboard - time: 1656273088.8991518 key: Key.enter - pressed
+keyboard - time: 1656273089.009133 key: Key.enter - released
+mouse - time: 1656273093.298512 x: 614.66015625 y: 132.41796875 button: Button.left - pressed
+mouse - time: 1656273093.321395 x: 614.66015625 y: 132.41796875 button: Button.left - released
+keyboard - time: 1656273094.584779 key: 's' - pressed
+keyboard - time: 1656273094.69265 key: 's' - released
+keyboard - time: 1656273094.898962 key: 'o' - pressed
+keyboard - time: 1656273095.043308 key: 'o' - released
+keyboard - time: 1656273095.2070882 key: 'n' - pressed
+keyboard - time: 1656273095.342505 key: 'n' - released
+keyboard - time: 1656273095.622989 key: 'g' - pressed
+keyboard - time: 1656273095.687076 key: 'g' - released
+keyboard - time: 1656273096.194169 key: Key.enter - pressed
+keyboard - time: 1656273096.302623 key: Key.enter - released
+mouse - time: 1656273100.665581 x: 532.98046875 y: 568.49609375 button: Button.left - pressed
+mouse - time: 1656273100.665756 x: 532.98046875 y: 568.49609375 button: Button.left - released
+mouse - time: 1656273101.965177 x: 519.00390625 y: 431.44921875 button: Button.left - pressed
+mouse - time: 1656273101.987572 x: 519.00390625 y: 431.44921875 button: Button.left - released
+keyboard - time: 1656273106.251057 key: Key.esc - pressed
+keyboard - time: 1656273106.3531232 key: Key.esc - released

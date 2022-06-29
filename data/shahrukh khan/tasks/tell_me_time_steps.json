@@ -1,0 +1,162 @@
+{
+    "step 1": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.19573116302490234,
+        "key": "Key.cmd"
+    },
+    "step 2": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.06625986099243164,
+        "key": "Key.space"
+    },
+    "step 3": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.054067134857177734,
+        "key": "Key.space"
+    },
+    "step 4": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.6765768527984619,
+        "key": "Key.cmd"
+    },
+    "step 5": {
+        "inputType": "keyboard",
+        "function": "type",
+        "key": "safari",
+        "time": 2
+    },
+    "step 6": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.09921908378601074,
+        "key": "Key.enter"
+    },
+    "step 7": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 4.438943862915039,
+        "key": "Key.enter"
+    },
+    "step 8": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.6061661243438721,
+        "key": "Key.cmd"
+    },
+    "step 9": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.08588886260986328,
+        "key": "t"
+    },
+    "step 10": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.13424301147460938,
+        "key": "t"
+    },
+    "step 11": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.630734920501709,
+        "key": "Key.cmd"
+    },
+    "step 12": {
+        "inputType": "keyboard",
+        "function": "type",
+        "key": "time ",
+        "time": 2
+    },
+    "step 13": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.1251838207244873,
+        "key": "Key.enter"
+    },
+    "step 14": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 2.5588691234588623,
+        "key": "Key.enter"
+    },
+    "step 15": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.7496650218963623,
+        "x": 182.9296875,
+        "y": 308.671875,
+        "button": "Button.left"
+    },
+    "step 16": {
+        "inputType": "mouse",
+        "function": "released",
+        "time": 0.2556338310241699,
+        "x": 308.3828125,
+        "y": 308.20703125,
+        "button": "Button.left"
+    },
+    "step 17": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.24763703346252441,
+        "key": "Key.cmd"
+    },
+    "step 18": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.10799789428710938,
+        "key": "c"
+    },
+    "step 19": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.06810593605041504,
+        "key": "c"
+    },
+    "step 20": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 2.189303159713745,
+        "key": "Key.cmd"
+    },
+    "step 21": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.17975711822509766,
+        "key": "Key.cmd"
+    },
+    "step 22": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.11863970756530762,
+        "key": "w"
+    },
+    "step 23": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.008931159973144531,
+        "key": "w"
+    },
+    "step 24": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.4412100315093994,
+        "key": "Key.cmd"
+    },
+    "step 25": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.16846108436584473,
+        "key": "Key.esc"
+    },
+    "step 26": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0,
+        "key": "Key.esc"
+    }
+}

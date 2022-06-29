@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "patterns": [
+                "tell me the time",
+                "whats the time",
+                "can you please tell me the time"
+            ],
+            "tag": "tell_me_time"
+        },
+        {
+            "patterns": [
+                "play music",
+                "play song"
+            ],
+            "tag": "play_song"
+        },
+        {
+            "patterns": [
+                "say hi to khan on whatsapp",
+                "send hi to khan on whatsapp"
+            ],
+            "tag": "send_hi_to_khan_on_whatsapp"
+        }
+    ]
+}

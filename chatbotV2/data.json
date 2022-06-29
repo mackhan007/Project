@@ -1,0 +1,75 @@
+{
+    "data": [
+        {
+            "patterns": [
+                "tell me the time",
+                "whats the time",
+                "can you please tell me the time",
+                "send hi to preety on whatsapp",
+                "play music",
+                "play song",
+                "say hi to khan on whatsapp",
+                "turn on whatsapp",
+                "send hi to khan on whatsapp"
+            ],
+            "tag": "command"
+        },
+        {
+            "patterns": [
+                "How are you",
+                "whats going on",
+                "how is life",
+                "tell me about your self",
+                "just getting bored",
+                "tell me about yourself",
+                "what are you",
+                "can you explain about yourself"
+            ],
+            "tag": "reply"
+        },
+        {
+            "patterns": [
+                "Hi",
+                "hey",
+                "hello",
+                "hai",
+                "heyo",
+                "bonjour"
+            ],
+            "tag": "start"
+        },
+        {
+            "patterns": [
+                "bye",
+                "stop",
+                "goodbye",
+                "good bye",
+                "end",
+                "terminate",
+                "exit",
+                "babye"
+            ],
+            "tag": "stop"
+        },
+        {
+            "patterns": [
+                "yes",
+                "sure",
+                "why not",
+                "accepted",
+                "yeah",
+                "yep"
+            ],
+            "tag": "positive"
+        },
+        {
+            "patterns": [
+                "no",
+                "not sure",
+                "denied",
+                "nope"
+            ],
+            "tag": "negative"
+        }
+    ]
+}

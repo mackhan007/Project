@@ -1,0 +1,250 @@
+{
+    "step 1": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.1137089729309082,
+        "key": "Key.cmd"
+    },
+    "step 2": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.09779000282287598,
+        "key": "Key.space"
+    },
+    "step 3": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.0244138240814209,
+        "key": "Key.space"
+    },
+    "step 4": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.2086780071258545,
+        "key": "Key.cmd"
+    },
+    "step 5": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.09815406799316406,
+        "key": "w"
+    },
+    "step 6": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.031061172485351562,
+        "key": "w"
+    },
+    "step 7": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.08036184310913086,
+        "key": "h"
+    },
+    "step 8": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.08694887161254883,
+        "key": "h"
+    },
+    "step 9": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.1082162857055664,
+        "key": "a"
+    },
+    "step 10": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.5995478630065918,
+        "key": "a"
+    },
+    "step 11": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.08292078971862793,
+        "key": "Key.enter"
+    },
+    "step 12": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 8.618296146392822,
+        "key": "Key.enter"
+    },
+    "step 13": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 1.1521821022033691,
+        "x": 410.359375,
+        "y": 188.47265625,
+        "button": "Button.left"
+    },
+    "step 14": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.1552278995513916,
+        "key": "p"
+    },
+    "step 15": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.028162002563476562,
+        "key": "p"
+    },
+    "step 16": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.08799099922180176,
+        "key": "r"
+    },
+    "step 17": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.6693329811096191,
+        "key": "r"
+    },
+    "step 18": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.1469869613647461,
+        "key": "s"
+    },
+    "step 19": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.7416951656341553,
+        "key": "s"
+    },
+    "step 20": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.14101696014404297,
+        "key": "Key.backspace"
+    },
+    "step 21": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.16728997230529785,
+        "key": "Key.backspace"
+    },
+    "step 22": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.07307100296020508,
+        "key": "i"
+    },
+    "step 23": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.8302080631256104,
+        "key": "i"
+    },
+    "step 24": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.12392997741699219,
+        "key": "Key.enter"
+    },
+    "step 25": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.7335460186004639,
+        "key": "Key.enter"
+    },
+    "step 26": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 1.16845703125,
+        "x": 389.91015625,
+        "y": 303.71484375,
+        "button": "Button.left"
+    },
+    "step 27": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.7413320541381836,
+        "x": 811.90625,
+        "y": 774.56640625,
+        "button": "Button.left"
+    },
+    "step 28": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.09192276000976562,
+        "key": "h"
+    },
+    "step 29": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.10580825805664062,
+        "key": "h"
+    },
+    "step 30": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.08495783805847168,
+        "key": "e"
+    },
+    "step 31": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.23380208015441895,
+        "key": "e"
+    },
+    "step 32": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.07731199264526367,
+        "key": "i"
+    },
+    "step 33": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.0891258716583252,
+        "key": "i"
+    },
+    "step 34": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.032627105712890625,
+        "key": "i"
+    },
+    "step 35": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0.45899081230163574,
+        "key": "i"
+    },
+    "step 36": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.1117250919342041,
+        "key": "Key.enter"
+    },
+    "step 37": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 1.9030101299285889,
+        "key": "Key.enter"
+    },
+    "step 38": {
+        "inputType": "mouse",
+        "function": "pressed",
+        "time": 0.939262866973877,
+        "x": 849.41015625,
+        "y": 899.98046875,
+        "button": "Button.left"
+    },
+    "step 39": {
+        "inputType": "keyboard",
+        "function": "pressed",
+        "time": 0.18021416664123535,
+        "key": "Key.esc"
+    },
+    "step 40": {
+        "inputType": "keyboard",
+        "function": "released",
+        "time": 0,
+        "key": "Key.esc"
+    }
+}
